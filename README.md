@@ -1,15 +1,23 @@
 ![Java Icon](/Images/java.svg)
 
-<h1 style="text-align: center;">ICSE Java Handbook <i>2022-23</h1>
+# ICSE Java Handbook _2022-23_
 
 _(a little something to get you through ICSE 9th and 10th)_
+
+<br>
+
+**Author:** Daksh, AKA TheDucky
+
+**Project Start On:** 15<sup>th</sup> November, 2022
+
+----
 
 <br>
 
 ## Index
 S.No.             |Chapter              
 :-------------------------:|:-------------------------:
-1 | Introduction to Object Oriented Programming Concepts
+1 | [Introduction to Object Oriented Programming Concepts](/syllabus/9th/Introduction_to_Object_Oriented_Programming_Concepts.md)
 2 | Elementary Concept of Objects and Classes
 3 | Values and Data Types
 4 | Operators in Java
