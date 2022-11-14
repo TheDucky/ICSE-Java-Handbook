@@ -4,7 +4,7 @@
 
 ### High level language
 
-The high-level language is easier to learn as they closely resemble to human language. It is easy to learn, easy to write and [debug](Dictionary.md#debugging). The high-level language is converted into machine language by one of the two different languages translator programs; [interpreter](Dictionary.md#interpreter) or [compiler](Dictionary.md#compiler).
+The high-level language is easier to learn as they closely resemble to human language. It is easy to learn, easy to write and [debug](../Dictionary.md#debugging). The high-level language is converted into machine language by one of the two different languages translator programs; [interpreter](../Dictionary.md#interpreter) or [compiler](../Dictionary.md#compiler).
 
 ----
 
@@ -17,7 +17,7 @@ The high-level language is easier to learn as they closely resemble to human lan
 - **Object-oriented programming (OOP)**
 	- Gives stress on the data items rather than functions.
 	- The data is restricted, to be used in a specific program area.
-	- It makes the complete program simpler by dividing into number of [objects](Dictionary.md#object).
+	- It makes the complete program simpler by dividing into number of [objects](../Dictionary.md#object).
 	- The concept of data hiding enhances security in programs.
 
 ----
