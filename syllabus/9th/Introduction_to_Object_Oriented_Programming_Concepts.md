@@ -53,7 +53,7 @@ Byte code is a highly optimized set of instructions designed to be executed by t
 
 Java compiler is software that converts source code into intermediate binary code called byte code. JVM accepts byte code and converts it into machine code suitable to the specific platform.
 
-![Java Compilation Process](/Images/JavaCompilationProcess.png)
+<img src="/Images/JavaCompilationProcess.png" alt="Java Compilation Process" width="400"/>
 
 ----
 
