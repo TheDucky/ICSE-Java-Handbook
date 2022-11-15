@@ -29,7 +29,7 @@ unwanted details)
 
 **Inheritance:** is a mechanism by which one object acquires the properties and behaviors of the parent object. It’s essentially creating a parent-child relationship between classes.
 
-**Polymorphism:** is when a single word can have many meanings and functions. One form of polymorphism in Java is _'method overloading'_.
+**Polymorphism:** is when a single word can have many meanings and functions. One form of polymorphism in Java is **_'method overloading'_**.
 
 **Encapsulation:** is the system of wrapping data and functions into a single unit. (implements data hiding)
 
@@ -39,7 +39,7 @@ unwanted details)
 
 ### Introduction
 
-Java is a simple, object oriented, high performance language created at _Sun Microsystems by James Gosling in 1990_. Java is famous for its ability to compile to platform independent byte code. Today it is one of the most popular programming language. It powers large webapps with the spring framework, big data pipelines with hadoop, mobile apps on android and even the NASA Maestro Mars rover. Unlike most other programming languages it is both a comiled and interpreted language. What makes Java different is that it compiles to byle code instead of machine code which can run on any operating system without the need to recompile. _(WORA)_ **W**rite **O**nce **R**un **A**nywhere.
+Java is a simple, object oriented, high performance language created at _Sun Microsystems by James Gosling in 1990_. Java is famous for its ability to compile to platform independent byte code. Today it is one of the most popular programming language. It powers large webapps with the spring framework, big data pipelines with hadoop, mobile apps on android and even the NASA Maestro Mars rover. Unlike most other programming languages it is both a comiled and interpreted language. What makes Java different is that it compiles to byle code instead of machine code which can run on any operating system without the need to recompile. **_(WORA)_** **W**rite **O**nce **R**un **A**nywhere.
 
 ----
 

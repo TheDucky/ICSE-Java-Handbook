@@ -18,7 +18,7 @@ _(a little something to get you through ICSE 9th and 10th)_
 S.No.             |Chapter              
 :-------------------------:|:-------------------------:
 1 | [Introduction to Object Oriented Programming Concepts](/syllabus/9th/Introduction_to_Object_Oriented_Programming_Concepts.md)
-2 | Elementary Concept of Objects and Classes
+2 | [Elementary Concept of Objects and Classes](/syllabus/9th/Elementary_Concept_of_Objects_and_Classes.md)
 3 | Values and Data Types
 4 | Operators in Java
 5 | Input in Java
