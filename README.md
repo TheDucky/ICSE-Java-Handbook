@@ -20,7 +20,7 @@ S.No.             |Chapter
 1 | [Introduction to Object Oriented Programming Concepts](/syllabus/9th/Introduction_to_Object_Oriented_Programming_Concepts.md)
 2 | [Elementary Concept of Objects and Classes](/syllabus/9th/Elementary_Concept_of_Objects_and_Classes.md)
 3 | [Values and Data Types](/syllabus/9th/Values_and_Data_Types.md)
-4 | Operators in Java
+4 | [Operators in Java](/syllabus/9th/Operators_in_Java.md)
 5 | Input in Java
 6 | Mathematical Library Methods
 7 | Conditional Constructs in Java
