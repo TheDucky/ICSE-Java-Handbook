@@ -21,7 +21,7 @@ S.No.             |Chapter
 2 | [Elementary Concept of Objects and Classes](/syllabus/9th/Elementary_Concept_of_Objects_and_Classes.md)
 3 | [Values and Data Types](/syllabus/9th/Values_and_Data_Types.md)
 4 | [Operators in Java](/syllabus/9th/Operators_in_Java.md)
-5 | Input in Java
+5 | [Input in Java](/syllabus/9th/Input_Output_in_Java.md)
 6 | Mathematical Library Methods
 7 | Conditional Constructs in Java
 8 | Iterative constructs in Java & Nested for loop
