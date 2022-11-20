@@ -1,4 +1,4 @@
-# Input Output in Java (IO)
+# 5. Input Output in Java (IO)
 
 Input is used to retrieve data from the user. This system provides user-friendly environment to input the data values in Java programming. The `Scanner` class will the used to retrieve data from the user. The `Scanner` class is located in the `java.util` package (java.util.Scanner). To use this class, you must import it by using the import keyword.
 

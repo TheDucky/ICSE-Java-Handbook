@@ -22,6 +22,6 @@ S.No.             |Chapter
 3 | [Values and Data Types](/syllabus/9th/Values_and_Data_Types.md)
 4 | [Operators in Java](/syllabus/9th/Operators_in_Java.md)
 5 | [Input Output in Java (IO)](/syllabus/9th/Input_Output_in_Java.md)
-6 | Mathematical Library Methods
+6 | [Mathematical Library Methods](/syllabus/9th/Math_Library_Methods.md)
 7 | Conditional Constructs in Java
 8 | Iterative constructs in Java & Nested for loop

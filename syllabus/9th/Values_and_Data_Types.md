@@ -1,4 +1,4 @@
-# Values and Data Types
+# 3. Values and Data Types
 
 ### Data type
 
